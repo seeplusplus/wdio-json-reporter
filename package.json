@@ -1,5 +1,5 @@
 {
-  "name": "wdio-json-reporter",
+  "name": "@seeplusplus/wdio-json-reporter",
   "version": "4.0.0",
   "description": "A WebdriverIO plugin. Report results in json format.",
   "main": "./src/index.js",
@@ -46,7 +46,8 @@
     "set-value": "~4.1.0"
   },
   "contributors": [
-    "Jim Davis"
+    "Jim Davis",
+    "Caleb Webber"
   ],
   "peerDependencies": {
     "@wdio/cli": "^8.0.0"
