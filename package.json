@@ -23,12 +23,12 @@
     "wdio-plugin",
     "wdio-reporter"
   ],
-  "author": "Jim Davis <jim.davis@kroger.com>",
+  "author": "Caleb Webber <caleb.webber@snagajob.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fijijavis/wdio-json-reporter/issues"
+    "url": "https://github.com/seeplusplus/wdio-json-reporter/issues"
   },
-  "homepage": "https://github.com/fijijavis/wdio-json-reporter#readme",
+  "homepage": "https://github.com/seeplusplus/wdio-json-reporter#readme",
   "dependencies": {
     "@wdio/reporter": "^8.0.0",
     "jest-matcher-utils": "^27.3.1"
@@ -46,8 +46,8 @@
     "set-value": "~4.1.0"
   },
   "contributors": [
-    "Jim Davis",
-    "Caleb Webber"
+    "Caleb Webber",
+    "Jim Davis"
   ],
   "peerDependencies": {
     "@wdio/cli": "^8.0.0"
