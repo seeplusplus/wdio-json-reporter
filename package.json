@@ -3,6 +3,7 @@
   "version": "4.0.2",
   "description": "A WebdriverIO plugin. Report results in json format.",
   "main": "./src/index.js",
+  "type": "module",
   "files": [
     "src",
     "mergeResults.js"
