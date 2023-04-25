@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fijijavis/wdio-json-reporter.git"
+    "url": "git+https://github.com/seeplusplus/wdio-json-reporter.git"
   },
   "keywords": [
     "json",
