@@ -6,3 +6,4 @@ build/
 screenshots/
 phantom.log
 yarn-error.log
+.npmrc
